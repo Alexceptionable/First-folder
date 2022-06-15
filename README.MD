@@ -2,4 +2,5 @@
 
 s
 git status 
-git commitß
+git commwoiejfowefjefefef
+asjhbashbdasd
